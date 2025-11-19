@@ -5,7 +5,8 @@ O objetivo foi processar dados brutos e massivos para gerar insights estratégic
 
 *Este trabalho é parte das pesquisas realizadas no Projeto de Pesquisa intitulado "Explorando Horizontes: Tecnologias Computacionais Aplicadas à Comunidade através dos Cursos do Núcleo de Computação da Politécnica Uninter (N-CPU)".*
 
----
+
+![screenshot](enade.jpg)
 
 ### Metodologia
 
